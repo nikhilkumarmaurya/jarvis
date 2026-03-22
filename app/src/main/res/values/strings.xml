@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="accessibility_description">Jarvis uses accessibility to control your phone based on voice commands</string>
+    <string name="hint_type_command">Type a command or tap mic to speak…</string>
+    <string name="settings_title">Settings</string>
+    <string name="gemini_api_key">Gemini API Key</string>
+    <string name="save">Save</string>
+    <string name="listening">Listening…</string>
+    <string name="thinking">Thinking…</string>
+    <string name="ready">Tap mic or type a command</string>
+</resources>
